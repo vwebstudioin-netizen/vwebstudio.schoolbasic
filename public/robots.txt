@@ -1,0 +1,9 @@
+# Robots.txt for School Website
+# https://www.robotstxt.org/
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://example.com/sitemap.xml
